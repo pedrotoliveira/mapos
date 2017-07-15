@@ -83,9 +83,9 @@ unicorn = {
 		
 			$(this).draggable({
 				zIndex: 999,
-				revert: true,      /
+				revert: true,
 				revertDuration: 0  
-			});		
+			});
 		});		
 	},
 	
